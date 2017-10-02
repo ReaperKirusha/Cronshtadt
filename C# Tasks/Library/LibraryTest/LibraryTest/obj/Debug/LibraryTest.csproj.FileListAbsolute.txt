@@ -1,0 +1,21 @@
+c:\users\kirilll\documents\visual studio 2015\Projects\LibraryTest\LibraryTest\bin\Debug\LibraryTest.exe.config
+C:\Users\Kirilll\Documents\GitHub\Library\LibraryTest\LibraryTest\bin\Debug\LibraryTest.pdb
+C:\Users\Kirilll\Documents\GitHub\Library\LibraryTest\LibraryTest\bin\Debug\ClassLibrary_LibraryApplication.dll
+C:\Users\Kirilll\Documents\GitHub\Library\LibraryTest\LibraryTest\bin\Debug\ClassLibrary_LibraryApplication.pdb
+C:\Users\Kirilll\Documents\GitHub\Library\LibraryTest\LibraryTest\obj\Debug\LibraryTest.csprojResolveAssemblyReference.cache
+C:\Users\Kirilll\Documents\GitHub\Library\LibraryTest\LibraryTest\obj\Debug\LibraryTest.pdb
+C:\Users\Kirilll\Documents\GitHub\Library\LibraryTest\LibraryTest\bin\Debug\nunit.framework.dll
+C:\Users\Kirilll\Documents\GitHub\Library\LibraryTest\LibraryTest\bin\Debug\nunit.framework.xml
+C:\Users\Kirilll\Documents\GitHub\Library\LibraryTest\LibraryTest\bin\Debug\LibraryTest.dll.config
+C:\Users\Kirilll\Documents\GitHub\Library\LibraryTest\LibraryTest\bin\Debug\LibraryTest.dll
+C:\Users\Kirilll\Documents\GitHub\Library\LibraryTest\LibraryTest\obj\Debug\LibraryTest.dll
+C:\Users\Kirilll\Documents\GitHub\Cronshtadt\C# Tasks\Library\LibraryTest\LibraryTest\bin\Debug\LibraryTest.dll.config
+C:\Users\Kirilll\Documents\GitHub\Cronshtadt\C# Tasks\Library\LibraryTest\LibraryTest\bin\Debug\LibraryTest.dll
+C:\Users\Kirilll\Documents\GitHub\Cronshtadt\C# Tasks\Library\LibraryTest\LibraryTest\bin\Debug\LibraryTest.pdb
+C:\Users\Kirilll\Documents\GitHub\Cronshtadt\C# Tasks\Library\LibraryTest\LibraryTest\bin\Debug\ClassLibrary_LibraryApplication.dll
+C:\Users\Kirilll\Documents\GitHub\Cronshtadt\C# Tasks\Library\LibraryTest\LibraryTest\bin\Debug\nunit.framework.dll
+C:\Users\Kirilll\Documents\GitHub\Cronshtadt\C# Tasks\Library\LibraryTest\LibraryTest\bin\Debug\ClassLibrary_LibraryApplication.pdb
+C:\Users\Kirilll\Documents\GitHub\Cronshtadt\C# Tasks\Library\LibraryTest\LibraryTest\bin\Debug\nunit.framework.xml
+C:\Users\Kirilll\Documents\GitHub\Cronshtadt\C# Tasks\Library\LibraryTest\LibraryTest\obj\Debug\LibraryTest.csprojResolveAssemblyReference.cache
+C:\Users\Kirilll\Documents\GitHub\Cronshtadt\C# Tasks\Library\LibraryTest\LibraryTest\obj\Debug\LibraryTest.dll
+C:\Users\Kirilll\Documents\GitHub\Cronshtadt\C# Tasks\Library\LibraryTest\LibraryTest\obj\Debug\LibraryTest.pdb

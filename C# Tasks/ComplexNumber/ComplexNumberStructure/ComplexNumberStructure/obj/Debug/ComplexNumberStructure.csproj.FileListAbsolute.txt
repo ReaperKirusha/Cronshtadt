@@ -1,0 +1,5 @@
+C:\Users\Kirilll\Documents\GitHub\ComplexNumber\ComplexNumberStructure\ComplexNumberStructure\bin\Debug\ComplexNumberStructure.dll
+C:\Users\Kirilll\Documents\GitHub\ComplexNumber\ComplexNumberStructure\ComplexNumberStructure\bin\Debug\ComplexNumberStructure.pdb
+C:\Users\Kirilll\Documents\GitHub\ComplexNumber\ComplexNumberStructure\ComplexNumberStructure\obj\Debug\ComplexNumberStructure.csprojResolveAssemblyReference.cache
+C:\Users\Kirilll\Documents\GitHub\ComplexNumber\ComplexNumberStructure\ComplexNumberStructure\obj\Debug\ComplexNumberStructure.dll
+C:\Users\Kirilll\Documents\GitHub\ComplexNumber\ComplexNumberStructure\ComplexNumberStructure\obj\Debug\ComplexNumberStructure.pdb

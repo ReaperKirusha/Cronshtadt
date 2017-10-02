@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\kirilll\documents\github\cronshtadt\c++ tasks\battleships\battleships\header.h(198): warning C4715: 'Player::SetShips_InShips': not all control paths return a value
+  Battleships.vcxproj -> C:\Users\Kirilll\Documents\GitHub\Cronshtadt\C++ Tasks\Battleships\Debug\Battleships.exe
+  Battleships.vcxproj -> C:\Users\Kirilll\Documents\GitHub\Cronshtadt\C++ Tasks\Battleships\Debug\Battleships.pdb (Partial PDB)

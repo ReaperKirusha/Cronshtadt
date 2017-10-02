@@ -1,0 +1,6 @@
+C:\Users\Kirilll\Documents\GitHub\Cronshtadt\C# Tasks\Task with interfaces\Task with interfaces\bin\Debug\Task with interfaces.exe.config
+C:\Users\Kirilll\Documents\GitHub\Cronshtadt\C# Tasks\Task with interfaces\Task with interfaces\bin\Debug\Task with interfaces.exe
+C:\Users\Kirilll\Documents\GitHub\Cronshtadt\C# Tasks\Task with interfaces\Task with interfaces\bin\Debug\Task with interfaces.pdb
+C:\Users\Kirilll\Documents\GitHub\Cronshtadt\C# Tasks\Task with interfaces\Task with interfaces\obj\Debug\Task with interfaces.csprojResolveAssemblyReference.cache
+C:\Users\Kirilll\Documents\GitHub\Cronshtadt\C# Tasks\Task with interfaces\Task with interfaces\obj\Debug\Task with interfaces.exe
+C:\Users\Kirilll\Documents\GitHub\Cronshtadt\C# Tasks\Task with interfaces\Task with interfaces\obj\Debug\Task with interfaces.pdb

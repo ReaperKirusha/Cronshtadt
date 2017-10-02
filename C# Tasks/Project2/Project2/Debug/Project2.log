@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\kirilll\documents\github\cronshtadt\c# tasks\project2\project2\header.h(33): error C2804: binary 'operator <<' has too many parameters
+c:\users\kirilll\documents\github\cronshtadt\c# tasks\project2\project2\header.h(33): error C2333: 'NewClass2::operator <<': error in function declaration; skipping function body
+c:\users\kirilll\documents\github\cronshtadt\c# tasks\project2\project2\source.cpp(12): warning C4018: '<': signed/unsigned mismatch
+c:\users\kirilll\documents\github\cronshtadt\c# tasks\project2\project2\source.cpp(67): warning C4018: '<': signed/unsigned mismatch
+c:\users\kirilll\documents\github\cronshtadt\c# tasks\project2\project2\source.cpp(78): warning C4018: '<': signed/unsigned mismatch
+c:\users\kirilll\documents\github\cronshtadt\c# tasks\project2\project2\source.cpp(122): warning C4018: '<': signed/unsigned mismatch
+c:\users\kirilll\documents\github\cronshtadt\c# tasks\project2\project2\source.cpp(123): warning C4018: '<': signed/unsigned mismatch

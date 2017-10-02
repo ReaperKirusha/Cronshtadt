@@ -1,0 +1,7 @@
+C:\Users\Kirilll\Documents\GitHub\Cronshtadt\Root of the equation\Root of the equation\bin\Debug\Root of the equation.exe.config
+C:\Users\Kirilll\Documents\GitHub\Cronshtadt\C# Tasks\Root of the equation\Root of the equation\bin\Debug\Root of the equation.exe.config
+C:\Users\Kirilll\Documents\GitHub\Cronshtadt\C# Tasks\Root of the equation\Root of the equation\bin\Debug\Root of the equation.exe
+C:\Users\Kirilll\Documents\GitHub\Cronshtadt\C# Tasks\Root of the equation\Root of the equation\bin\Debug\Root of the equation.pdb
+C:\Users\Kirilll\Documents\GitHub\Cronshtadt\C# Tasks\Root of the equation\Root of the equation\obj\Debug\Root of the equation.csprojResolveAssemblyReference.cache
+C:\Users\Kirilll\Documents\GitHub\Cronshtadt\C# Tasks\Root of the equation\Root of the equation\obj\Debug\Root of the equation.exe
+C:\Users\Kirilll\Documents\GitHub\Cronshtadt\C# Tasks\Root of the equation\Root of the equation\obj\Debug\Root of the equation.pdb

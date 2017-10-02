@@ -1,0 +1,36 @@
+C:\Users\Kirilll\Documents\GitHub\Library\AssemblyTetst\AssemblyTetst\bin\Debug\AssemblyTetst.exe.config
+C:\Users\Kirilll\Documents\GitHub\Library\AssemblyTetst\AssemblyTetst\bin\Debug\AssemblyTetst.exe
+C:\Users\Kirilll\Documents\GitHub\Library\AssemblyTetst\AssemblyTetst\bin\Debug\AssemblyTetst.pdb
+C:\Users\Kirilll\Documents\GitHub\Library\AssemblyTetst\AssemblyTetst\obj\Debug\AssemblyTetst.exe
+C:\Users\Kirilll\Documents\GitHub\Library\AssemblyTetst\AssemblyTetst\obj\Debug\AssemblyTetst.pdb
+C:\Users\Kirilll\Documents\GitHub\Library\AssemblyTetst\AssemblyTetst\bin\Debug\nunit.framework.dll
+C:\Users\Kirilll\Documents\GitHub\Library\AssemblyTetst\AssemblyTetst\bin\Debug\nunit.framework.xml
+C:\Users\Kirilll\Documents\GitHub\Library\AssemblyTetst\AssemblyTetst\obj\Debug\AssemblyTetst.csprojResolveAssemblyReference.cache
+C:\Users\Kirilll\Documents\GitHub\Library\AssemblyTetst\AssemblyTetst\bin\Debug\LibraryTest.dll
+C:\Users\Kirilll\Documents\GitHub\Library\AssemblyTetst\AssemblyTetst\bin\Debug\ClassLibrary_LibraryApplication.dll
+C:\Users\Kirilll\Documents\GitHub\Library\AssemblyTetst\AssemblyTetst\bin\Debug\LibraryTest.pdb
+C:\Users\Kirilll\Documents\GitHub\Library\AssemblyTetst\AssemblyTetst\bin\Debug\ClassLibrary_LibraryApplication.pdb
+C:\Users\Kirilll\Documents\GitHub\Cronshtadt\Library\AssemblyTetst\AssemblyTetst\bin\Debug\AssemblyTetst.exe.config
+C:\Users\Kirilll\Documents\GitHub\Cronshtadt\Library\AssemblyTetst\AssemblyTetst\obj\Debug\AssemblyTetst.exe
+C:\Users\Kirilll\Documents\GitHub\Cronshtadt\Library\AssemblyTetst\AssemblyTetst\obj\Debug\AssemblyTetst.pdb
+C:\Users\Kirilll\Documents\GitHub\Cronshtadt\Library\AssemblyTetst\AssemblyTetst\bin\Debug\AssemblyTetst.exe
+C:\Users\Kirilll\Documents\GitHub\Cronshtadt\Library\AssemblyTetst\AssemblyTetst\bin\Debug\AssemblyTetst.pdb
+C:\Users\Kirilll\Documents\GitHub\Cronshtadt\Library\AssemblyTetst\AssemblyTetst\bin\Debug\LibraryTest.dll
+C:\Users\Kirilll\Documents\GitHub\Cronshtadt\Library\AssemblyTetst\AssemblyTetst\bin\Debug\nunit.framework.dll
+C:\Users\Kirilll\Documents\GitHub\Cronshtadt\Library\AssemblyTetst\AssemblyTetst\bin\Debug\ClassLibrary_LibraryApplication.dll
+C:\Users\Kirilll\Documents\GitHub\Cronshtadt\Library\AssemblyTetst\AssemblyTetst\bin\Debug\LibraryTest.pdb
+C:\Users\Kirilll\Documents\GitHub\Cronshtadt\Library\AssemblyTetst\AssemblyTetst\bin\Debug\nunit.framework.xml
+C:\Users\Kirilll\Documents\GitHub\Cronshtadt\Library\AssemblyTetst\AssemblyTetst\bin\Debug\ClassLibrary_LibraryApplication.pdb
+C:\Users\Kirilll\Documents\GitHub\Cronshtadt\Library\AssemblyTetst\AssemblyTetst\obj\Debug\AssemblyTetst.csprojResolveAssemblyReference.cache
+C:\Users\Kirilll\Documents\GitHub\Cronshtadt\C# Tasks\Library\AssemblyTetst\AssemblyTetst\bin\Debug\AssemblyTetst.exe.config
+C:\Users\Kirilll\Documents\GitHub\Cronshtadt\C# Tasks\Library\AssemblyTetst\AssemblyTetst\obj\Debug\AssemblyTetst.exe
+C:\Users\Kirilll\Documents\GitHub\Cronshtadt\C# Tasks\Library\AssemblyTetst\AssemblyTetst\obj\Debug\AssemblyTetst.pdb
+C:\Users\Kirilll\Documents\GitHub\Cronshtadt\C# Tasks\Library\AssemblyTetst\AssemblyTetst\bin\Debug\AssemblyTetst.exe
+C:\Users\Kirilll\Documents\GitHub\Cronshtadt\C# Tasks\Library\AssemblyTetst\AssemblyTetst\bin\Debug\AssemblyTetst.pdb
+C:\Users\Kirilll\Documents\GitHub\Cronshtadt\C# Tasks\Library\AssemblyTetst\AssemblyTetst\bin\Debug\LibraryTest.dll
+C:\Users\Kirilll\Documents\GitHub\Cronshtadt\C# Tasks\Library\AssemblyTetst\AssemblyTetst\bin\Debug\nunit.framework.dll
+C:\Users\Kirilll\Documents\GitHub\Cronshtadt\C# Tasks\Library\AssemblyTetst\AssemblyTetst\bin\Debug\ClassLibrary_LibraryApplication.dll
+C:\Users\Kirilll\Documents\GitHub\Cronshtadt\C# Tasks\Library\AssemblyTetst\AssemblyTetst\bin\Debug\LibraryTest.pdb
+C:\Users\Kirilll\Documents\GitHub\Cronshtadt\C# Tasks\Library\AssemblyTetst\AssemblyTetst\bin\Debug\nunit.framework.xml
+C:\Users\Kirilll\Documents\GitHub\Cronshtadt\C# Tasks\Library\AssemblyTetst\AssemblyTetst\bin\Debug\ClassLibrary_LibraryApplication.pdb
+C:\Users\Kirilll\Documents\GitHub\Cronshtadt\C# Tasks\Library\AssemblyTetst\AssemblyTetst\obj\Debug\AssemblyTetst.csprojResolveAssemblyReference.cache
